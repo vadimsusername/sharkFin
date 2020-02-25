@@ -10,7 +10,7 @@ HTML, Materialize CSS, Charts.JS, Javascript, JQuery, ALPHA VANTAGE API, Financi
 
 ![](sharkFin-demo.gif)
 
-https://mattmarnien.github.io/sharkFin/
+https://vadimsusername.github.io/sharkFin/
 
 
 ## Installation
